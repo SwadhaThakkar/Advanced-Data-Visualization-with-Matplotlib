@@ -60,7 +60,6 @@ This project demonstrates:
 
 ```bash
 git clone https://github.com/SwadhaThakkar/Matplotlib.git
-cd Matplotlib
 ```
 
 ### 2. Install Dependencies
